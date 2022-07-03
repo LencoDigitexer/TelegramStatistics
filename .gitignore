@@ -1,5 +1,4 @@
 /config.ini
 /env
 /index.html
-/lencodigitexer.session
-/my_account.session
+*.session
